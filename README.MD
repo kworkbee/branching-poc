@@ -1,5 +1,5 @@
 # Branching Strategy PoC
+
 ---
 
-Current: 1.0
-
+Current: 1.1
