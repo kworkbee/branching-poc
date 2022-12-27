@@ -2,4 +2,4 @@
 
 ---
 
-Current: 1.1
+Current: 1.2
